@@ -1,0 +1,5 @@
+* 9af5fad (HEAD -> master) Add collector output sample
+* adc7a19 Implement command substitution for system metrics
+* e202b82 Demonstrate quoting rules with explanatory comment
+* 02bbde7 Add shebang and make syshealth.sh executable
+* e74734f Initial commit: project skeleton and README
